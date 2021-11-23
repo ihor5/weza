@@ -10,7 +10,7 @@ export default {
   name: "App",
   data() {
     return {
-      APIkey: "45b9e8a006f60807907c5f70acd507aa",
+      APIkey: "",
       city: "Kiev",
     };
   },
